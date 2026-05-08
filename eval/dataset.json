@@ -1,0 +1,41 @@
+[
+    {
+        "prompt": "Build a CRM with login, contacts, dashboard and admin analytics"
+    },
+
+    {
+        "prompt": "Create an e-commerce platform with payments and inventory"
+    },
+
+    {
+        "prompt": "Build a school management system with teachers and students"
+    },
+
+    {
+        "prompt": "Create a social media app with messaging and notifications"
+    },
+
+    {
+        "prompt": "Build a hospital system with appointments and billing"
+    },
+
+    {
+        "prompt": "Build something cool"
+    },
+
+    {
+        "prompt": "Create an app with admin=user but also restricted access"
+    },
+
+    {
+        "prompt": "Build a payment system without users"
+    },
+
+    {
+        "prompt": "Create an analytics dashboard without data storage"
+    },
+
+    {
+        "prompt": "Build a CRM with login, payments, subscriptions and premium analytics"
+    }
+]
